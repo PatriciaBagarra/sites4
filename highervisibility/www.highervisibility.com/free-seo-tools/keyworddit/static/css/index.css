@@ -1,0 +1,191 @@
+/* General */
+body {
+  font-family: 'Catamaran', sans-serif;
+  margin:0;
+  font-size:1.3em;
+}
+
+/* Errors */
+.error-message {
+  color:red;
+  background-color: #FFF;
+  border: 2px solid red;
+}
+
+/* Helper classes */
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-center {
+  text-align: center;
+}
+
+/* Components */
+.search-wrapper-outer {
+  background-color: #3498db;
+  color: #FFF;
+}
+
+.search-wrapper {
+  width:90%;
+  max-width:950px;
+  margin:auto;
+  padding-bottom:4.0em;
+  text-align: center;
+}
+
+.subreddit-input-wrapper {
+  max-width: 350px;
+  position:relative;
+  width:96%;
+  margin:auto;
+  margin-bottom:0.5em;
+}
+
+.subreddit-input {
+  width: 100%;
+  height: 54px;
+  line-height: 50px;
+  font-size: 1.5em;
+  padding-left: 10px;
+  border: 0px;
+  display:block;
+}
+
+.search-button {
+  width: 96%;
+  max-width: 350px;
+  display:block;
+  height: 56px;
+  line-height: 56px;
+  font-size: 1.2em;
+  padding-left: 10px;
+  color: #FFF;
+  background-color: #F89406;
+  border: 0px;
+  margin-top:0.5em;
+  margin-left:auto;
+  margin-right:auto
+}
+
+.search-button:hover {
+  cursor: pointer;
+}
+
+.search-suggestions {
+  position: absolute;
+  left:0;
+  right:0;
+  z-index: 100;
+  background-color: #FFF;
+  color:black;
+}
+
+.suggestion-tooltip {
+  background-color: grey;
+  color:black;
+  font-size: 0.8em;
+}
+
+.suggestion-item {
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+
+.suggestion-item:hover {
+  background-color: orange;
+  color:white;
+  cursor: pointer;
+}
+
+.search-results {
+  width:90%;
+  margin:auto;
+  max-width: 950px;
+  padding-top:2.0em;
+  padding-bottom:3.0em;
+}
+
+.search-results h2 {
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.results-table {
+  width:100%;
+  font-size: 1.0em;
+  margin-top:1.0em;
+}
+
+.faqbox-outer {
+  margin-top: 4.0em;
+  margin-bottom:4.0em;
+}
+
+.faqbox-inner {
+  max-width: 800px;
+  width:90%;
+  margin:auto;
+}
+
+.faqbox-header {
+  color:#F89406;
+  text-align: center;
+}
+
+.export-button-wrapper {
+  display:flex;
+  justify-content: flex-end;
+}
+
+.export-button {
+  background-color: green;
+  color: #FFF;
+  padding-left: 1.0em;
+  padding-right: 1.0em;
+}
+
+.export-link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.twitter-wrapper {
+  margin:auto;
+  width:90%;
+  max-width:950px;
+  display:flex;
+  justify-content: flex-end;
+  padding-top:3.0em;
+}
+
+.twitter-icon {
+  background-color: #FFF;
+  width:35px;
+  border-radius: 2px;
+}
+
+#notice-bar {
+  text-align: center;
+  background-color: #F89406;
+  color:#FFF;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+}
+
+.attribution {
+  margin-top:2em;
+  font-size: 1.4em;
+}
+
+.questiondb-wrapper {
+    border: 1px solid white;
+    margin-top: 1em;
+    padding: 10px;
+}

@@ -1,0 +1,1 @@
+document.addEventListener("om.Styles.positionFloating",function(t){var n=t.detail.Campaign;if("floating"===n.Types.type&&"top"===n.options.position&&document.getElementById("wpadminbar")){const i=window.matchMedia("(max-width: 782px)").matches?"46px":"32px";n.contain.style.marginTop=i}});

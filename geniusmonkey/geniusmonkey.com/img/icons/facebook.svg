@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="90"
+   width="90"
+   sodipodi:docname="facebook.svg"
+   xml:space="preserve"
+   viewBox="0 0 90 90"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="782"
+   inkscape:window-x="2166"
+   inkscape:cy="35.6"
+   inkscape:cx="45.1"
+   inkscape:zoom="3.575"
+   fit-margin-bottom="0"
+   fit-margin-right="0"
+   fit-margin-left="0"
+   fit-margin-top="0"
+   showgrid="false"
+   id="namedview17"
+   inkscape:window-height="2115"
+   inkscape:window-width="2094"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style2"
+   type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g
+   transform="translate(-54.9,-64.4)"
+   id="g14">
+	<g
+   id="g12">
+		<g
+   id="g6">
+			<path
+   id="path4"
+   d="m 101.7,137.6 v -25.2 h 8.3 l 1.4,-9.9 h -9.7 v -6.8 c 0,-2.1 1.7,-3.8 3.8,-3.8 h 6.3 v -9.3 h -7.9 C 96.5,82.3 91.5,87.7 91.5,94.3 v 8.2 h -8.3 v 9.9 h 8.3 v 25.2 z"
+   class="st0" />
+		</g>
+		<g
+   id="g10">
+			<path
+   id="path8"
+   d="m 99.9,66.6 c 23.6,0 42.8,19.2 42.8,42.8 0,23.6 -19.2,42.8 -42.8,42.8 -23.6,0 -42.8,-19.2 -42.8,-42.8 0,-23.6 19.2,-42.8 42.8,-42.8 m 0,-2.2 c -24.9,0 -45,20.1 -45,45 0,24.9 20.1,45 45,45 24.9,0 45,-20.1 45,-45 0,-24.9 -20.2,-45 -45,-45 z"
+   class="st1" />
+		</g>
+	</g>
+</g>
+</svg>
